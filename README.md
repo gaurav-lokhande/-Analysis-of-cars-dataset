@@ -1,4 +1,4 @@
-# Analysis-of-cars-dataset
+# EXPLORATORY DATA ANALYSIS OF CAR DATASET
 Exploratory data analysis for deeper understanding of data
 
  Goal: Perform analysis on dataset of different cars with their specifications.
